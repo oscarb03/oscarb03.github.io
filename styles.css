@@ -1,0 +1,19 @@
+body{
+    background:pink;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.assignment{
+    display:flex;
+    padding:5px;
+    margin:5px;
+    background:lightgray;
+}
+
+.assignment img {
+    width:500x;
+    padding:10pc;
+}
+h1 {
+    color: darkorchid;
+    text-align: center;
+}
